@@ -22,7 +22,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-![h:240px](./imgs/_nabetarou.png)
+![bg left:30% h:300px](./imgs/_nabetarou.png)
 
 - 渡部 泰生 ( わたなべ たいき )
 - 社内では「なべ」と呼ばれています
@@ -32,11 +32,11 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-![h:240](./imgs/_muchimuchi_logo_face.png)
+![bg left:30% h:300px](./imgs/_muchimuchi_logo_face.png)
 
 - 三宅 武将（みやけ たける）
 - アプリ開発を担当
-- 最近は iOS(Swift) の開発もしています
+- iOS(Swift) の開発もしています
 - 趣味は写真を撮ること
 
 ---
