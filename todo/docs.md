@@ -31,28 +31,38 @@ Flutter が何かわかったと思うので、ここでは、DartPad でプロ�
 まずは、Flutterではなく、Dartのプログラムを動かしてみます。  
 DartPad を開いて、画面上部の「New Pad」を選択します。
 
-![Create New Pad](./imgs/01_create_new_pad.png)
+<center>
+<img src="./imgs/01_create_new_pad.png" width="600px">
+</center>
 
 HTMLのトグルが画像のようにオフになっていることを確認して、Dartを選択します。  
 その後、画面左側に下記画像と同じプログラムが書かれていればOKです。
 
-![New Dart Program](./imgs/02_new_dart_program.png)
+<center>
+<img src="./imgs/02_new_dart_program.png" width="600px">
+</center>
 
 プログラムの動かし方は簡単です。Runボタンを押してみましょう。これだけで実行できます。  
 hello 1 から hello 5まで出力できたらOKです。
 
-![Dart Program Result](./imgs/03_dart_program_result.png)
+<center>
+<img src="./imgs/03_dart_program_result.png" width="600px">
+</center>
 
 ---
 
 同じように、Flutterのプログラムを動かしてみましょう！  
 New Pad から今度は Flutter を選択します。右側の欄がUI Output に変わっていればOKです。
 
-![UI Output](./imgs/04_ui_output.png)
+<center>
+<img src="./imgs/04_ui_output.png" width="600px">
+</center>
 
 Runを押して実行してみましょう。Hello, World!が出てくるのを確認してください。
 
-![Flutter Hello, World! Result](./imgs/05_flutter_hello_world_result.png)
+<center>
+<img src="./imgs/05_flutter_hello_world_result.png" width="600px">
+</center>
 
 これで、Dart / Flutter どちらのプログラムも DartPad を使用して実行することができました。
 
@@ -72,11 +82,15 @@ Widget は、Flutter の UI を構築するためのパーツのことです。
 実際にプログラムを見て確認します。  
 DartPadの右上に Samples というメニューがあります。
 
-![Flutter Samples Header](./imgs/06_flutter_samples_header.png)
+<center>
+<img src="./imgs/06_flutter_samples_header.png" width="600px">
+</center>
 
 この中から、Counterというプログラムを選んで実行してみましょう。
 
-![Counter](./imgs/07_counter.png)
+<center>
+<img src="./imgs/08_ui_f_state.png" width="600px">
+</center>
 
 +ボタンを押すと中央の数が増えていくプログラムです。  
 このアプリでは、以下のWidgetが使用されています。
