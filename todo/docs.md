@@ -102,7 +102,7 @@ Flutter で使用される Widget は大きく2つに分けることができま
 
 Flutter の[公式ドキュメント](https://docs.flutter.dev/development/data-and-backend/state-mgmt/declarative)では、下記画像のように、build という function ( 関数 ) に、state を渡すことで、UI が構築されるという説明があります。
 
-<center><img src="./imgs/08_ui_f_state.png" width=80%></center>
+<center><img src="./imgs/08_ui_f_state.png" width="80%"></center>
 
 Widget は、アプリの状態を表示するための設計図といった形で、状態( state )が与えられると、Widget の build メソッドが UI を構築します。  
 この状態( state )を必要とする Widget は StatefulWidget 、必要としないものは StatelessWidget を用いて作成していきます。
